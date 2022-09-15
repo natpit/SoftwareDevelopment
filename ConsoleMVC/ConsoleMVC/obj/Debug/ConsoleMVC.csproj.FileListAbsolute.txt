@@ -1,0 +1,8 @@
+D:\Natt\2022-23\Github\School-Programming-main\Courses\Applied-Programmer\Practical-Software-Development\1.Преглед-на-трислойния-модел\ConsoleMVC\ConsoleMVC\bin\Debug\ConsoleMVC.exe.config
+D:\Natt\2022-23\Github\School-Programming-main\Courses\Applied-Programmer\Practical-Software-Development\1.Преглед-на-трислойния-модел\ConsoleMVC\ConsoleMVC\bin\Debug\ConsoleMVC.exe
+D:\Natt\2022-23\Github\School-Programming-main\Courses\Applied-Programmer\Practical-Software-Development\1.Преглед-на-трислойния-модел\ConsoleMVC\ConsoleMVC\bin\Debug\ConsoleMVC.pdb
+D:\Natt\2022-23\Github\School-Programming-main\Courses\Applied-Programmer\Practical-Software-Development\1.Преглед-на-трислойния-модел\ConsoleMVC\ConsoleMVC\obj\Debug\ConsoleMVC.csproj.AssemblyReference.cache
+D:\Natt\2022-23\Github\School-Programming-main\Courses\Applied-Programmer\Practical-Software-Development\1.Преглед-на-трислойния-модел\ConsoleMVC\ConsoleMVC\obj\Debug\ConsoleMVC.csproj.SuggestedBindingRedirects.cache
+D:\Natt\2022-23\Github\School-Programming-main\Courses\Applied-Programmer\Practical-Software-Development\1.Преглед-на-трислойния-модел\ConsoleMVC\ConsoleMVC\obj\Debug\ConsoleMVC.csproj.CoreCompileInputs.cache
+D:\Natt\2022-23\Github\School-Programming-main\Courses\Applied-Programmer\Practical-Software-Development\1.Преглед-на-трислойния-модел\ConsoleMVC\ConsoleMVC\obj\Debug\ConsoleMVC.exe
+D:\Natt\2022-23\Github\School-Programming-main\Courses\Applied-Programmer\Practical-Software-Development\1.Преглед-на-трислойния-модел\ConsoleMVC\ConsoleMVC\obj\Debug\ConsoleMVC.pdb
